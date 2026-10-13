@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd -- "$(dirname -- "${BASH_SOURCE[0]}")"
+.venv-demo/bin/python entrainer_avis.py

@@ -20,3 +20,7 @@ results/
 scheduler.pt
 venv/
 venv/# Virtual environments
+
+# Demonstration locale
+.venv-demo/
+demo/runtime/
